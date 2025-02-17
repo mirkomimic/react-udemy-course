@@ -1,0 +1,11 @@
+npx create-react-app appname
+npm i web-vitals --save-dev
+npm i json-server
+
+npm i react-leaflet leaflet
+
+npm i redux
+npm i react-redux
+npm i redux-thunk
+npm install --save @redux-devtools/extension
+npm i @reduxjs/toolkit
