@@ -9,3 +9,5 @@ npm i react-redux
 npm i redux-thunk
 npm install --save @redux-devtools/extension
 npm i @reduxjs/toolkit
+npm i styled-components
+npm i react-icons
